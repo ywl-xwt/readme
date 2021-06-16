@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<publication>
+	<book>
+		<Title>Think in C++</Title>
+		<Writer>Bruce Eckel</Writer>
+		<PublishDate>2000-08-10</PublishDate>
+	</book>
+	<book>
+		<Title>Think in Java</Title>
+		<Writer>Bruce Eckel</Writer>
+		<PublishDate>1999-04-01</PublishDate>
+	</book>
+	<book>
+		<Title>MiddlewareTech</Title>
+		<Writer>wanghuadong</Writer>
+		<PublishDate>1994-02-23</PublishDate>
+	</book>
+</publication>
